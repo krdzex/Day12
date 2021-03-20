@@ -11,8 +11,8 @@ function myNes() {
         }
     };
     // Only change code below this line
-    var gloveBoxContents;
-    return gloveBoxContents = myStorage.car.inside["glove box"];
+    var gloveBoxContents = myStorage.car.inside["glove box"];
+    return gloveBoxContents;
     // Only change code above this line
 }
 
